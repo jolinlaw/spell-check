@@ -21,3 +21,4 @@ git:
 branches:
   only:
     - master
+    - /^greenkeeper/.*$/
