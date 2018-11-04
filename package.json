@@ -6,8 +6,8 @@
   "dependencies": {
     "atom-pathspec": "^0.0.0",
     "atom-select-list": "^0.7.0",
-    "multi-integer-range": "^2.0.0",
-    "natural": "^0.4.0",
+    "multi-integer-range": "^4.0.6",
+    "natural": "^0.6.2",
     "spellchecker": "^3.4.4",
     "spelling-manager": "^1.1.0",
     "underscore-plus": "^1"
@@ -99,7 +99,7 @@
     }
   },
   "devDependencies": {
-    "coffeelint": "^1.9.7"
+    "coffeelint": "^2.1.0"
   },
   "consumedServices": {
     "spell-check": {
